@@ -1,4 +1,21 @@
-img {
-    width: 172px;
-    height: 115px;
+.header {
+    border-bottom: 1px solid black;
 }
+
+.body {
+
+}
+
+a {
+    color: darkslategrey;
+    font-size: 60px;
+}
+
+.footer {
+    border-top: 1px solid black;
+    position: fixed;
+    bottom: 1px;
+    width: 2000px;
+    justify-content: space-around;
+}
+
